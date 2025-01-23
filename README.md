@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- JavaScript Developer<br>- Student in Web Developer</p>
+<p align="left">- JavaScript Developer<br>- Student at University Estácio, studying full stack developer</p>
 
 ###
 
